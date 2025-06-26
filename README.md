@@ -1,1 +1,1 @@
-# laundrymanagement
+# Laundry Management System
